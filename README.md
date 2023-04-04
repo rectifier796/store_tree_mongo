@@ -2,7 +2,8 @@
 Steps to run - 
 1. npm init
 2. npm i express mongoose nodemon dotenv
-3. npm start
+3. Create a .env file while will contains USER (username of cluster) and PASSWORD (password of cluster).
+4. npm start
 
 Note - 
 1. treeModel.js contains schema to store binary tree in mongo database.
